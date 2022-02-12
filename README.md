@@ -6,7 +6,8 @@ An encryption and decryption algorithm based on randomly generate integers
 * Project Status
 * Other Information
 ## Introduction
-This project aims at encrypting passwords, username, sign-in information and data in general.
+* This project aims at encrypting passwords, usernames, sign-in information and data in general.
+* It also provides a means of decrypting the encrypted data
 ## Technologies
 This project is creaed with Python 3.6
 ## Project Status
