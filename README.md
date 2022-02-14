@@ -15,7 +15,7 @@ This project is created with Python 3.6
 * The code probably needs refactoring for efficiency
 * It also needs to be rewritten in other languages
 ## Other Information
-*Oriahi Great
-*oriahigreat@gmail.com
+* Oriahi Great
+* oriahigreat@gmail.com
 
 
