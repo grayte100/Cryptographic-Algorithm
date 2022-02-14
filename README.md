@@ -9,9 +9,8 @@ An encryption and decryption algorithm based on randomly generate integers
 * This project aims at encrypting passwords, usernames, sign-in information and data in general.
 * It also provides a means of decrypting the encrypted data
 ## Technologies
-This project is creaed with Python 3.6
+This project is created with Python 3.6
 ## Project Status
-* This is my first github repository
 * This project is still being developed
 * The code probably needs refactoring for efficiency
 * It also needs to be rewritten in other languages
