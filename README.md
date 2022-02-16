@@ -1,5 +1,5 @@
 # Random-Integer-Cryptographic-Algorithm
-An encryption and decryption algorithm based on randomly generate integers
+An encryption and decryption algorithm based on randomly generated integers
 ## Table of Contents
 * Introduction
 * Technologies
