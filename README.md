@@ -12,6 +12,7 @@ An encryption and decryption algorithm based on randomly generated integers
 This project is created with Python 3.6
 ## Project Status
 * This project is still being developed
+* The algorithm has been tested on an app 
 * The code probably needs refactoring for efficiency
 * It also needs to be rewritten in other languages
 ## Other Information
